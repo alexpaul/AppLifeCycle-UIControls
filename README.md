@@ -12,4 +12,6 @@ In this app we went through the AppDelegate, SceneDelegate and ViewController li
 * Property Observers: didSet, willSet
 * Image Literal
 
-![app screenshot](Assets/app-cycle-ui-controls.png)  
+![app screenshot](Assets/app-cycle-ui-controls.png) 
+
+## [Lecture Video](https://youtu.be/stqGtoNubRM)   
